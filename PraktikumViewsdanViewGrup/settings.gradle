@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Praktikum Views dan View Grup"
